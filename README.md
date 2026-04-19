@@ -1,10 +1,45 @@
-# DataScience-101
-A comprehensive documentation and portfolio showcasing the journey from foundational data analytics skills to basic machine learning capabilities.
----------------------------------------------------------------------------------------------------------------------------------------------------
+# Neo Ryle Tubera— Data & AI Portfolio
 
-This repository documents my intensive roadmap to master data analytics and build foundational Data Science and Machine Learning (ML) capabilities, with the ultimate goal of transitioning into a professional role. It is a commitment to end-to-end learning, tracing my path from foundational concepts into the specialized Data Analytics niche, and then expanding into basic Machine Learning for a well-rounded skill set.
+## Overview
 
-What you will find inside: 
-- Job Readiness and Business Acumen: 
-- High-Impact Portfolio Projects:
-- Notes & Reflections:
+This repository showcases my progression from data analytics foundations to applied machine learning, focusing on solving real-world problems using data.
+
+## Projects
+
+### Customer Segmentation (In Progress)
+
+* Identify customer groups using clustering techniques
+* Extract business insights for targeted strategies
+
+### Churn Prediction (Planned)
+
+* Predict customer churn using classification models
+* Focus on retention strategies and decision-making
+
+### NLP Project (Planned)
+
+* Analyze text data using modern AI tools
+
+### Deployed ML Application (Planned)
+
+* End-to-end ML system with API and cloud deployment
+
+---
+
+## Foundations
+
+* Google Data Analytics Professional Certificate
+* SQL, Excel, Tableau
+* Data cleaning and exploratory data analysis
+
+---
+
+## Tech Stack
+
+Python, Pandas, NumPy, Scikit-learn, SQL, Tableau, PyTorch, FastAPI, Docker
+
+---
+
+## Goal
+
+To build practical, data-driven solutions that combine machine learning with real business insights.
